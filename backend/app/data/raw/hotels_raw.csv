@@ -1,0 +1,7 @@
+hotel_id,name,street_address,city,state,latitude,longitude,rating,tags,aliases
+sunway-resort,Sunway Resort,Persiaran Lagoon,Bandar Sunway,Selangor,3.0723,101.6070,4.8,clean_rooms|family_friendly|safety_secure|non_smoking,sunway hotel|sunway lagoon hotel|bandar sunway
+sunway-resort,SUNWAY RESORT HOTEL,Persiaran Lagoon,Bandar Sunway,Selangor,3.0723,101.6070,4.8,clean_rooms|family_friendly|safety_secure|non_smoking,sunway resort|sunway lagoon resort
+grand-hyatt-kl,Grand Hyatt Kuala Lumpur,Jalan Pinang,Kuala Lumpur City Centre,Kuala Lumpur,3.1533,101.7125,4.7,clean_rooms|quiet_rooms|safety_secure|non_smoking,grand hyatt kl|hyatt kuala lumpur|klcc hotel
+traders-kl,Traders Hotel Kuala Lumpur,Kuala Lumpur City Centre,Kuala Lumpur,Kuala Lumpur,3.1544,101.7148,4.6,quiet_rooms|family_friendly|safety_secure,traders kl|traders hotel klcc|klcc traders
+hilton-kl,Hilton Kuala Lumpur,Jalan Stesen Sentral,Kuala Lumpur Sentral,Kuala Lumpur,3.1352,101.6861,4.6,clean_rooms|safety_secure|non_smoking,hilton kl|hilton sentral|kl sentral hotel
+aloft-kl,Aloft Kuala Lumpur Sentral,Jalan Stesen Sentral,Kuala Lumpur Sentral,Kuala Lumpur,3.1335,101.6866,4.4,family_friendly|budget_friendly|non_smoking,aloft kl|aloft sentral|budget kl sentral

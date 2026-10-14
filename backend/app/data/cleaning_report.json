@@ -1,0 +1,21 @@
+{
+  "run_at": "2026-10-14T13:14:00.883397+00:00",
+  "sources": {
+    "hotels": "app/data/raw/hotels_raw.csv",
+    "provider_offers": "app/data/raw/provider_offers_raw.csv"
+  },
+  "hotels": {
+    "raw_rows": 6,
+    "canonical_rows": 5,
+    "duplicates_removed": 1,
+    "rejected_rows": 0,
+    "aliases_created": 17,
+    "tags_created": 17
+  },
+  "provider_offers": {
+    "raw_rows": 16,
+    "clean_rows": 15,
+    "duplicates_removed": 1,
+    "rejected_rows": 0
+  }
+}

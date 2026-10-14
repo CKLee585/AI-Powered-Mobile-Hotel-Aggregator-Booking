@@ -1,0 +1,17 @@
+offer_id,hotel_id,provider,price_per_night,currency,fee_note,retrieved_at,external_url,is_mock
+sunway-resort-agoda-old,sunway-resort,Agoda,425,MYR,Includes RM38 estimated taxes and fees,2026-10-14T00:00:00+00:00,https://www.agoda.com/,1
+sunway-resort-agoda,sunway-resort,Agoda,420,MYR,Includes RM38 estimated taxes and fees,2026-10-14T00:10:00+00:00,https://www.agoda.com/,1
+sunway-resort-booking,sunway-resort,Booking.com,435,MYR,Includes RM40 estimated taxes and fees,2026-10-14T00:08:00+00:00,https://www.booking.com/,1
+sunway-resort-trip,sunway-resort,Trip.com,440,MYR,Includes estimated mandatory taxes,2026-10-14T00:12:00+00:00,https://www.trip.com/,1
+grand-hyatt-kl-agoda,grand-hyatt-kl,Agoda,560,MYR,Includes estimated taxes and fees,2026-10-14T00:10:00+00:00,https://www.agoda.com/,1
+grand-hyatt-kl-booking,grand-hyatt-kl,Booking.com,575,MYR,Includes estimated taxes and fees,2026-10-14T00:08:00+00:00,https://www.booking.com/,1
+grand-hyatt-kl-trip,grand-hyatt-kl,Trip.com,590,MYR,Includes estimated mandatory taxes,2026-10-14T00:12:00+00:00,https://www.trip.com/,1
+traders-kl-agoda,traders-kl,Agoda,390,MYR,Includes estimated taxes and fees,2026-10-14T00:10:00+00:00,https://www.agoda.com/,1
+traders-kl-booking,traders-kl,Booking.com,410,MYR,Includes estimated taxes and fees,2026-10-14T00:08:00+00:00,https://www.booking.com/,1
+traders-kl-trip,traders-kl,Trip.com,420,MYR,Includes estimated mandatory taxes,2026-10-14T00:12:00+00:00,https://www.trip.com/,1
+hilton-kl-agoda,hilton-kl,Agoda,510,MYR,Includes estimated taxes and fees,2026-10-14T00:10:00+00:00,https://www.agoda.com/,1
+hilton-kl-booking,hilton-kl,Booking.com,525,MYR,Includes estimated taxes and fees,2026-10-14T00:08:00+00:00,https://www.booking.com/,1
+hilton-kl-trip,hilton-kl,Trip.com,540,MYR,Includes estimated mandatory taxes,2026-10-14T00:12:00+00:00,https://www.trip.com/,1
+aloft-kl-agoda,aloft-kl,Agoda,295,MYR,Includes estimated taxes and fees,2026-10-14T00:10:00+00:00,https://www.agoda.com/,1
+aloft-kl-booking,aloft-kl,Booking.com,310,MYR,Includes estimated taxes and fees,2026-10-14T00:08:00+00:00,https://www.booking.com/,1
+aloft-kl-trip,aloft-kl,Trip.com,315,MYR,Includes estimated mandatory taxes,2026-10-14T00:12:00+00:00,https://www.trip.com/,1

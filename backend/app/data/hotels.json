@@ -1,0 +1,86 @@
+[
+  {
+    "id": "aloft-kl",
+    "name": "Aloft Kuala Lumpur Sentral",
+    "address": "Jalan Stesen Sentral, Kuala Lumpur Sentral, Kuala Lumpur",
+    "rating": 4.4,
+    "tags": [
+      "budget_friendly",
+      "family_friendly",
+      "non_smoking"
+    ],
+    "search_aliases": [
+      "aloft kl",
+      "aloft sentral",
+      "budget kl sentral"
+    ]
+  },
+  {
+    "id": "grand-hyatt-kl",
+    "name": "Grand Hyatt Kuala Lumpur",
+    "address": "Jalan Pinang, Kuala Lumpur City Centre, Kuala Lumpur",
+    "rating": 4.7,
+    "tags": [
+      "clean_rooms",
+      "non_smoking",
+      "quiet_rooms",
+      "safety_secure"
+    ],
+    "search_aliases": [
+      "grand hyatt kl",
+      "hyatt kuala lumpur",
+      "klcc hotel"
+    ]
+  },
+  {
+    "id": "hilton-kl",
+    "name": "Hilton Kuala Lumpur",
+    "address": "Jalan Stesen Sentral, Kuala Lumpur Sentral, Kuala Lumpur",
+    "rating": 4.6,
+    "tags": [
+      "clean_rooms",
+      "non_smoking",
+      "safety_secure"
+    ],
+    "search_aliases": [
+      "hilton kl",
+      "hilton sentral",
+      "kl sentral hotel"
+    ]
+  },
+  {
+    "id": "sunway-resort",
+    "name": "Sunway Resort Hotel",
+    "address": "Persiaran Lagoon, Bandar Sunway, Selangor",
+    "rating": 4.8,
+    "tags": [
+      "clean_rooms",
+      "family_friendly",
+      "non_smoking",
+      "safety_secure"
+    ],
+    "search_aliases": [
+      "bandar sunway",
+      "sunway hotel",
+      "sunway lagoon hotel",
+      "sunway lagoon resort",
+      "sunway resort"
+    ]
+  },
+  {
+    "id": "traders-kl",
+    "name": "Traders Hotel Kuala Lumpur",
+    "address": "Kuala Lumpur City Centre, Kuala Lumpur",
+    "rating": 4.6,
+    "tags": [
+      "family_friendly",
+      "quiet_rooms",
+      "safety_secure"
+    ],
+    "search_aliases": [
+      "klcc traders",
+      "traders hotel klcc",
+      "traders kl"
+    ]
+  }
+]

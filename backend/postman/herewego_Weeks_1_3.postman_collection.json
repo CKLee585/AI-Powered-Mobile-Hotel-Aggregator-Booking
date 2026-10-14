@@ -1,0 +1,76 @@
+{
+  "info": {
+    "_postman_id": "57141d16-5391-4699-82dd-46b443d137d6",
+    "name": "herewego Weeks 1-3 API",
+    "description": "Local checks for the credential-safe FastAPI boundary.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/health"
+      }
+    },
+    {
+      "name": "Text Search",
+      "request": {
+        "method": "POST",
+        "header": [
+          {"key": "Content-Type", "value": "application/json"}
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"query\": \"Sunway\",\n  \"required_tags\": [\"clean_rooms\", \"non_smoking\"],\n  \"limit\": 3\n}"
+        },
+        "url": "{{baseUrl}}/api/v1/search/text"
+      }
+    },
+    {
+      "name": "Misspelled Hotel Search",
+      "request": {
+        "method": "POST",
+        "header": [
+          {"key": "Content-Type", "value": "application/json"}
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"query\": \"Sunwey Resor Hotel\"\n}"
+        },
+        "url": "{{baseUrl}}/api/v1/search/text"
+      }
+    },
+    {
+      "name": "Visual Candidates",
+      "request": {
+        "method": "POST",
+        "header": [
+          {"key": "Content-Type", "value": "application/json"}
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"source\": \"camera\",\n  \"image_reference\": \"hotel-signboard.jpg\",\n  \"visual_hints\": [\"Sunway\"],\n  \"limit\": 3\n}"
+        },
+        "url": "{{baseUrl}}/api/v1/candidates"
+      }
+    },
+    {
+      "name": "Provider Offer Contract",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/api/v1/provider-offers/sunway-resort"
+      }
+    },
+    {
+      "name": "Swagger UI",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/docs"
+      }
+    }
+  ]
+}
